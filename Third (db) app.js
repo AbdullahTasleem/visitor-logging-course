@@ -53,13 +53,15 @@ var updateVisitors = () => {
 		
 	mydb.insert(updateData,
     	(err, body) => {
-    		if (err === undefined || err === null ){
-          dbRev = body["rev"];
-        }
-        else
-        {
-          log += "updateVisitors: " + err + "<br/>";
-    	}
+		if (err === undefined || err === null )
+		{
+          		dbRev = body["rev"];
+        	}
+        	else
+        	{
+          		log += "updateVisitors: " + err + "<br/>";
+		}
+	}
     );
 };
 
