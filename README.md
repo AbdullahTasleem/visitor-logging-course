@@ -245,10 +245,12 @@ In this exercise, you will:
 1. Log in to the [IBM Cloud](https://cloud.ibm.com/). Click on the hamburger menu icon on the top left. ![image001](https://user-images.githubusercontent.com/27959350/132950668-66ea2cad-eeb8-40dc-9396-7bdbc2a9cca0.jpg)
 
  Figure 1. IBM Cloud Dashboard
-2. Select **Cloud Foundry** -\&gt; **Public**. ![](RackMultipart20210911-4-8gav30_html_dadfb6edc59722d0.png)
+2. Select **Cloud Foundry** -\&gt; **Public**. <img width="502" alt="image002" src="https://user-images.githubusercontent.com/27959350/132950669-6250a4ba-eda0-4c43-b0f6-3fb7e81cc8cf.png">
+
  Figure 2. Hamburger menu
 
-3. Click **Create** on the top right. ![](RackMultipart20210911-4-8gav30_html_a6372588263050e0.png)
+3. Click **Create** on the top right. ![image003](https://user-images.githubusercontent.com/27959350/132950670-cb69ab58-9ba0-4e2a-ae98-8e124bee257d.png)
+
  Figure 3. Cloud Foundry menu
 
 4. Make sure the following is selected and then click **Create** :
@@ -261,33 +263,41 @@ In this exercise, you will:
 | **Domain** | You can leave this as default |
 | **Organization and space** | Leave the default (if you don&#39;t see any then make sure you have the right region selected) |
 
-![](RackMultipart20210911-4-8gav30_html_44e62401c348af16.png)
+![image004](https://user-images.githubusercontent.com/27959350/132950672-01fdc5f7-0783-4182-a761-72fab8f00dcc.png)
 
- Figure 4. Setting up a Cloud Foundry application ![](RackMultipart20210911-4-8gav30_html_bf7c1d107fc3ae2f.png)
+
+ Figure 4. Setting up a Cloud Foundry application ![image005](https://user-images.githubusercontent.com/27959350/132950673-675ad739-d64c-4e6b-bb66-83b88012561a.png)
+
  Figure 5. Setting up a Cloud Foundry application (2)
 
-1. Wait for the application to start, you will see a rotating starting bar. ![](RackMultipart20210911-4-8gav30_html_4aa985e0fd2b4e90.png) Figure 6. Cloud Foundry application is starting up
+1. Wait for the application to start, you will see a rotating starting bar. <img width="964" alt="image006" src="https://user-images.githubusercontent.com/27959350/132950674-67a4b1ee-bf23-478c-9ea1-f367da17bb3f.png">
+Figure 6. Cloud Foundry application is starting up
 
-2. Once the app is running, go ahead and click **Visit App URL**. ![](RackMultipart20210911-4-8gav30_html_d5b56bb176b7f6e5.png)
+2. Once the app is running, go ahead and click **Visit App URL**. <img width="677" alt="image007" src="https://user-images.githubusercontent.com/27959350/132950675-e5c430f4-b43a-4f9f-a3b4-fe2e4f3aab8c.png">
+
  Figure 7. Deployed Cloud Foundry application
 
-3. Now you should see the initial application. After you see it, do not close the tab. You will need it later. ![](RackMultipart20210911-4-8gav30_html_2712e317aded9a63.png)
+3. Now you should see the initial application. After you see it, do not close the tab. You will need it later. ![image008](https://user-images.githubusercontent.com/27959350/132950676-44190631-1ec8-442e-8e59-5da909a9e1fb.png)
+
  Figure 8. Hello World Screen
 
 1. Log on in to the [IBM Cloud ConsoleIBM Cloud](https://console.bluemix.net/).
 2. Expand the hamburger icon on the top left and select **Cloud Foundry**.
 
- ![](RackMultipart20210911-4-8gav30_html_30e2cc775564b7fa.png)
+<img width="635" alt="image009" src="https://user-images.githubusercontent.com/27959350/132950677-83ec6d0b-91ca-4c78-8386-07fe8a393ede.png">
+
 
 Figure 1. IBM Cloud Dashboard
 
-![](RackMultipart20210911-4-8gav30_html_64b1682720ab5e0a.png)
+<img width="161" alt="image010" src="https://user-images.githubusercontent.com/27959350/132950678-2e0a5c52-2e4d-4d24-b9dc-416d9e2b63f3.png">
+
 
 Figure 2. Hamburger menu
 
 1. Hover over the **Public Applications** section and click **Create.**
 
- ![](RackMultipart20210911-4-8gav30_html_ed5f22d2f4b4bf0.png)
+<img width="514" alt="image011" src="https://user-images.githubusercontent.com/27959350/132950679-1a4748e9-7a80-4fda-93f3-75445fd81595.png">
+
 
 Figure 3. _Clou_d Foundry menu
 
