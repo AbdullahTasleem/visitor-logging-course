@@ -1,3 +1,4 @@
+
 # visitor-logging-course
 
 
@@ -303,7 +304,7 @@ Figure 3. _Clou_d Foundry menu
 
 1. Select the **SDK for Node.js**
 
- ![](RackMultipart20210911-4-8gav30_html_66c47b09de7b1256.png)
+<img width="162" alt="image012" src="https://user-images.githubusercontent.com/27959350/132951142-8d1787fa-8ace-445e-822c-3b0f37991429.png">
 
 Figure 4. Cloud Foundry applications
 
@@ -316,25 +317,25 @@ Figure 4. Cloud Foundry applications
 | **Region/location** | Choose **United Kingdom** if available or else whichever is closest to you |
 | **Organization and space** | Leave the default |
 
-![](RackMultipart20210911-4-8gav30_html_10a66ecb0809675a.png)
+![image013](https://user-images.githubusercontent.com/27959350/132951144-1f110b5d-6de0-4354-99c4-a46e469cef53.png)
 
 Figure 5. Setting up a Cloud Foundry application
 
 1. Wait for the application to start, you will see a rotating starting bar.
 
- ![](RackMultipart20210911-4-8gav30_html_55d2200dd16278d1.png)
+![image014](https://user-images.githubusercontent.com/27959350/132951146-2c762596-3e43-4f59-a6e0-e8d6dd034c2d.png)
 
 Figure 6. Cloud Foundry application is starting up
 
 1. Once the app is awake (running), go ahead and click **Visit App URL**.
 
- ![](RackMultipart20210911-4-8gav30_html_166e8a1b7768f987.png)
+![image015](https://user-images.githubusercontent.com/27959350/132951148-31640698-e026-4707-8a3b-d3ee9613acea.png)
 
 Figure 7. Deployed Cloud Foundry application
 
 1. Now you should see the initial application. After you see it, do not close the tab. You will need it later.
 
-![](RackMultipart20210911-4-8gav30_html_30cc7695d567f227.png)
+<img width="718" alt="image016" src="https://user-images.githubusercontent.com/27959350/132951149-5dbf2429-e2bc-4d75-9ecb-298398853c6c.png">
 
 Figure 8. Initial application&#39;s screen
 
@@ -342,7 +343,8 @@ Figure 8. Initial application&#39;s screen
 
 Cloud Foundry on the IBM Cloud allows several development environments. In the last course we used Command Line to deploy our Node.js application. In this course, we will take the easier approach where you don&#39;t have to install anything on your local machine and use the online development environment.
 
-1. Return to the IBM Cloud page by clicking on **IBM Cloud** on the top left. Click on the **Cloud Foundry apps** under resources in the dashboard. ![](RackMultipart20210911-4-8gav30_html_b7558750b9ec1bbd.png)
+1. Return to the IBM Cloud page by clicking on **IBM Cloud** on the top left. Click on the **Cloud Foundry apps** under resources in the dashboard. ![image017](https://user-images.githubusercontent.com/27959350/132951150-d039a91f-c75c-4074-89e9-021470f3ab77.png)
+
  Figure 1. IBM Cloud Dashboard - Resources
 2. Open your application by clicking on its name as shown in the figure below: ![](RackMultipart20210911-4-8gav30_html_51459ce500b58a78.png)
  Figure 2. Cloud Foundry App
@@ -350,11 +352,13 @@ Cloud Foundry on the IBM Cloud allows several development environments. In the l
 3. Scroll down to **Continuous Delivery** and click **Enable Continuous Delivery**. ![](RackMultipart20210911-4-8gav30_html_6e869d624847ea08.png) Figure 3. Continuous Delivery
 
 4. All the fields should already be filled out. You just need to go to the **Delivery Pipeline** to create an API key.
- ![](RackMultipart20210911-4-8gav30_html_852174660bc60908.png)
+![image018](https://user-images.githubusercontent.com/27959350/132951151-b31c1199-26a2-4622-80d8-881a7bb1d858.png)
+
  Figure 4. Setting up continuous delivery
 
-5. Create an **IBM Cloud API Key**. You can do that by clicking the **New +** button shown in the figure below. ![](RackMultipart20210911-4-8gav30_html_51cfeace7074b3ee.png) Figure 5. Setting up continuous delivery (2)
-6. It will ask for a confirmation, click on **OK**. ![](RackMultipart20210911-4-8gav30_html_39db571618d06274.png) Figure 6. Setting up continuous delivery (3)
+5. Create an **IBM Cloud API Key**. You can do that by clicking the **New +** button shown in the figure below. ![image019](https://user-images.githubusercontent.com/27959350/132951153-363ab7a0-9413-40ff-b609-92adcb688882.png)
+Figure 5. Setting up continuous delivery (2)
+6. It will ask for a confirmation, click on **OK**. ![image020](https://user-images.githubusercontent.com/27959350/132951154-2e3d9ce7-2d99-41f1-aa89-5e24c6896f17.png) Figure 6. Setting up continuous delivery (3)
 
 7. Once the API Key appears you can go ahead and **Create** the toolchain. ![](RackMultipart20210911-4-8gav30_html_74460725a77c595e.png) Figure 7. Setting up continuous delivery (4)
 8. You should now have the toolchain created. Go ahead and click on **Eclipse Orion Web IDE** to start coding your application. ![](RackMultipart20210911-4-8gav30_html_5870e51e6ec20792.png)
