@@ -1,8 +1,6 @@
 # visitor-logging-course
 
 
-**Create the Back-end for a Visitor Logging Tracking App**
-
 
 # Skill Overview
 
@@ -244,7 +242,8 @@ In this exercise, you will:
 
 ## Create the application
 
-1. Log in to the [IBM Cloud](https://cloud.ibm.com/). Click on the hamburger menu icon on the top left. ![](RackMultipart20210911-4-8gav30_html_646740b27216e4e5.jpg)
+1. Log in to the [IBM Cloud](https://cloud.ibm.com/). Click on the hamburger menu icon on the top left. ![image001](https://user-images.githubusercontent.com/27959350/132950668-66ea2cad-eeb8-40dc-9396-7bdbc2a9cca0.jpg)
+
  Figure 1. IBM Cloud Dashboard
 2. Select **Cloud Foundry** -\&gt; **Public**. ![](RackMultipart20210911-4-8gav30_html_dadfb6edc59722d0.png)
  Figure 2. Hamburger menu
@@ -2310,4 +2309,7 @@ app.get(&quot;/log&quot;, (req, res) =\&gt; {
     res.send(log);
 
 });
+
+
+
 
